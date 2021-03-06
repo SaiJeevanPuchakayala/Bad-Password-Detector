@@ -1,4 +1,4 @@
-# Bad-Password-Detector
+# Weak Password Detector and Warning Email sender using Python
 * Here in this project I have used pandas to manupilate, and regular expressions for extracting some required elements according to the Digital Identity Guidelines of Authentication. 
 
 
